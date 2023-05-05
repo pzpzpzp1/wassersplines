@@ -1,0 +1,12 @@
+imgs/*
+/.ipynb_checkpoints/*
+frames/.ipynb_checkpoints/*
+models/*
+__pycache__/*
+/viz_loss.jpg
+points.tar
+ToFeydy.ipynb
+*_pointstore.obj
+figures/*
+results
+__tracked_surface.stl
